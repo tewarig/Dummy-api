@@ -3,7 +3,7 @@
   "description": "Dummy api to make app functional",
   "numbers": [
     { "id": "1", "title": "Gojo Sensai" ,"method": "Web Allocation","time" : "04:30PM, 3 may","By:":"Gaurav" },
-    { "id": "1", "title": "Itachi" ,"method": "Web Allocation","time" : "09:30PM, 5 may","By:":"Gaurav" }, 
-    { "id": "1", "title": "Fuzi" ,"method": "Web Allocation","time" : "04:30PM, 3 may","By:":"Gaurav" },
+    { "id": "2", "title": "Itachi" ,"method": "Web Allocation","time" : "09:30PM, 5 may","By:":"Gaurav" }, 
+    { "id": "3", "title": "Fuzi" ,"method": "Web Allocation","time" : "04:30PM, 3 may","By:":"Gaurav" },
   ]
 }
